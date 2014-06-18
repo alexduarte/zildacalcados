@@ -32,12 +32,6 @@ $_LANGMAIL['Your cart and your discount'] = 'Seu carrinho e seu cupom de descont
 $_LANGMAIL['Thanks for your order'] = 'Obrigado pela sua compra';
 $_LANGMAIL['You are one of our best customers'] = 'Você é um dos nossos melhores clientes';
 $_LANGMAIL['We miss you'] = 'Nós sentimos sua falta';
-$_LANGMAIL['Product available'] = 'Produto disponível';
-$_LANGMAIL['New order : #%d - %s'] = 'Novo pedido: Nº.%d - %s';
-$_LANGMAIL['Product out of stock'] = 'Produto esgotado';
-$_LANGMAIL['Stock coverage'] = 'Cobrir estoque';
-$_LANGMAIL['Referral Program'] = 'Programa de referências';
-$_LANGMAIL['Congratulations!'] = 'Parabéns!';
 $_LANGMAIL['%1$s sent you a link to %2$s'] = '%1$s lhe enviou um link: %2$s';
 
 

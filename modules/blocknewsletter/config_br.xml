@@ -2,7 +2,11 @@
 <module>
 	<name>blocknewsletter</name>
 	<displayName><![CDATA[Bloco da newsletter]]></displayName>
+<<<<<<< HEAD
 	<version><![CDATA[1.6]]></version>
+=======
+	<version><![CDATA[2.0]]></version>
+>>>>>>> d9627e61580096e17646c37244bd6618098fcf8e
 	<description><![CDATA[Adiciona um bloco para cadastramento da newsletter.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

@@ -2,7 +2,11 @@
 <module>
 	<name>statsforecast</name>
 	<displayName><![CDATA[Painel de Estat&iacute;sticas]]></displayName>
+<<<<<<< HEAD
 	<version><![CDATA[1.2]]></version>
+=======
+	<version><![CDATA[1.3]]></version>
+>>>>>>> d9627e61580096e17646c37244bd6618098fcf8e
 	<description><![CDATA[Este &eacute; o m&oacute;dulo principal para o Painel de Estat&iacute;sticas. Ele mostra um resumo de todas as suas estat&iacute;sticas atuais.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

@@ -2,7 +2,7 @@
 <module>
 	<name>blockadvertising</name>
 	<displayName><![CDATA[Bloco de an&uacute;ncios]]></displayName>
-	<version><![CDATA[0.8]]></version>
+	<version><![CDATA[0.9]]></version>
 	<description><![CDATA[Adiciona um bloco an&uacute;ncio para se&ccedil;&otilde;es selecionadas da sua loja.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[advertising_marketing]]></tab>

@@ -2,11 +2,7 @@
 <module>
 	<name>sekeywords</name>
 	<displayName><![CDATA[Motor de buscas de palavras-chaves]]></displayName>
-<<<<<<< HEAD
-	<version><![CDATA[1.1]]></version>
-=======
-	<version><![CDATA[1.2]]></version>
->>>>>>> d9627e61580096e17646c37244bd6618098fcf8e
+	<version><![CDATA[1.2.2]]></version>
 	<description><![CDATA[Mostra quais palavras trouxeram visitantes &agrave; sua loja]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

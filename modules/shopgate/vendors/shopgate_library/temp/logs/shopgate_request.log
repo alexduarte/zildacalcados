@@ -208,52 +208,52 @@
     [trace_id] => spa-53a1cd65664c7
 )
 
-18-06-2014 17:41:48: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 17:40:33: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1cf5c6ff00
+    [trace_id] => spa-53a1cf117147a
 )
 
-18-06-2014 17:47:53: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 17:46:56: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1d0c950962
+    [trace_id] => spa-53a1d0900b697
 )
 
-18-06-2014 17:52:59: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 17:52:00: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1d1fbc5c08
+    [trace_id] => spa-53a1d1c01ed43
 )
 
 18-06-2014 17:58:05: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1d32d6980f
+    [trace_id] => spa-53a1d32df2e0b
 )
 
-18-06-2014 18:04:05: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 18:03:26: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1d495e9dff
+    [trace_id] => spa-53a1d46e10c13
 )
 
-18-06-2014 18:31:08: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 19:07:46: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1daece8cee
+    [trace_id] => spa-53a1e3823c733
 )
 
-18-06-2014 18:49:13: Sending request to "https://api.shopgate.com/merchant/": Array
+18-06-2014 19:22:39: Sending request to "https://api.shopgate.com/merchant/": Array
 (
     [action] => get_mobile_redirect_user_agents
     [shop_number] => 
-    [trace_id] => spa-53a1df29ecb7f
+    [trace_id] => spa-53a1e6ff2f34c
 )
 

@@ -2,8 +2,8 @@
 <module>
 	<name>gridhtml</name>
 	<displayName><![CDATA[Exibir tabela em HTML simples]]></displayName>
-	<version><![CDATA[1.1]]></version>
-	<description><![CDATA[Allows the statistics system to display data in a grid.]]></description>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[Permite que o sistema de estat&iacute;sticas apresente informa&ccedil;&otilde;es em uma grade.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[administration]]></tab>
 	<is_configurable>0</is_configurable>

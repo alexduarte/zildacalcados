@@ -1,6 +1,5 @@
 #Arquivo de configuração
-settings.inc.php
-config
+config/settings.inc.php
 #Arquivos de cache
 cache
 

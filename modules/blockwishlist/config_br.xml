@@ -2,7 +2,11 @@
 <module>
 	<name>blockwishlist</name>
 	<displayName><![CDATA[Bloco de lista de presentes]]></displayName>
+<<<<<<< HEAD
+	<version><![CDATA[1.0]]></version>
+=======
 	<version><![CDATA[0.10]]></version>
+>>>>>>> d9627e61580096e17646c37244bd6618098fcf8e
 	<description><![CDATA[Adiciona um bloco contendo as listas de presentes do cliente.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

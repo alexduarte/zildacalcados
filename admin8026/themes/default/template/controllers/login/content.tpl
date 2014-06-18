@@ -30,10 +30,11 @@
 </script>
 <div id="login-panel">
 	<div id="login-header">
-		<h1 class="text-center">
+		<!--<h1 class="text-center">
+		<img id="logo" width="40px" src="{$img_dir}ats-loja-modelo-1399318518.jpg"/>
 			<img id="logo" width="40px" src="{$img_dir}icon-prestashop.svg"/>
 			PRESTASHOP
-		</h1>
+		</h1>-->
 		<hr/>
 		<h4 class="text-center">{$shop_name}</h4>
 		<hr/>
@@ -151,23 +152,23 @@
 	</div>
 	<div id="login-footer">
 		<p class="text-center text-muted">
-			<a href="http://www.prestashop.com/" onclick="return !window.open(this.href);">
-				&copy; PrestaShop&#8482; 2007-{$smarty.now|date_format:"%Y"} - All rights reserved
+			<a href="http://www.atsinformatica.com.br/" onclick="return !window.open(this.href);">
+				&copy; Resulth E-Commerce&#8482; 2014 - Todos direitos reservados
 			</a>
 		</p>
 		<p class="text-center">
-			<a class="link-social link-twitter" href="https://twitter.com/PrestaShop" target="_blank" title="Twitter">
+			<a class="link-social link-twitter" href="https://twitter.com/ATSInformatica" target="_blank" title="Twitter">
 				<i class="icon-twitter"></i>
 			</a>
-			<a class="link-social link-facebook" href="https://www.facebook.com/prestashop" target="_blank" title="Facebook">
+			<a class="link-social link-facebook" href="https://www.facebook.com/atsinfo" target="_blank" title="Facebook">
 				<i class="icon-facebook"></i>
 			</a>
-			<a class="link-social link-github" href="https://github.com/PrestaShop/PrestaShop/" target="_blank" title="Github">
+			<!--<a class="link-social link-github" href="https://github.com/PrestaShop/PrestaShop/" target="_blank" title="Github">
 				<i class="icon-github"></i>
 			</a>
 			<a class="link-social link-google" href="https://plus.google.com/+prestashop/" target="_blank" title="Google">
 				<i class="icon-google-plus"></i>
-			</a>
+			</a>-->
 		</p>
 	</div>
 </div>

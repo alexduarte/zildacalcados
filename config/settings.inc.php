@@ -10,7 +10,7 @@ define('_PS_CACHE_ENABLED_', '0');
 define('_MEDIA_SERVER_1_', '');
 define('_MEDIA_SERVER_2_', '');
 define('_MEDIA_SERVER_3_', '');
-define('_COOKIE_KEY_', 'DQUDhpVghqmANZeY1JvGRXjrjpJCwkkFYOfN9uxL1VHi0JSHghcEHHLL');
+define('_COOKIE_KEY_', 'MRbIvAQYvC2N7vkuLsSA0WgCn1LSwPHAEjDbQvL2PxN3WcXqcc6Wvtjc');
 define('_COOKIE_IV_', 'xXJ5SWqJ');
 define('_PS_CREATION_DATE_', '2014-06-18');
 define('_PS_VERSION_', '1.6.0.6');

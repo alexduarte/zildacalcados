@@ -1,0 +1,98 @@
+/* @override http://localhost/bxslider_v3_plugin/css/styles.css */
+
+/*
+ * To change the color scheme of slider change each 
+ * background property for each of the five styles below
+ */
+
+.slideshow{}
+.bx-wrapper {}
+ 
+/*next button*/
+.bx-next {
+	display:none;
+	position:absolute;
+	top:40%;
+	right:-50px;
+	z-index:999;
+	width: 30px;
+	height: 30px;
+	text-indent: -999999px;
+	background: url(gray_next.png) no-repeat 0 -30px;
+}
+
+/*previous button*/
+
+.bx-prev {
+	display:none;
+	position:absolute;
+	top:40%;
+	left:-50px;
+	z-index:999;
+	width: 30px;
+	height: 30px;
+	text-indent: -999999px;
+	background: url(gray_prev.png) no-repeat 0 -30px;
+}
+
+/*pager links*/
+.bx-pager {
+   position: absolute;
+   bottom: 20px;
+	bottom:40px !ie;/* hack ie7 */
+	right: 15px;
+	padding-top: 7px;
+	font-size:11px;
+	color:#666;
+	text-align:center;
+}
+.bx-pager a {
+	display:inline-block;
+	zoom:1;/* 19 *//* 19 */
+	font-weight:bold;
+	text-decoration:none;
+	text-indent: -999em;
+	width: 10px;
+	height: 10px;
+	background: #b22222;
+	border-radius: 20px;
+	margin-right: 12px;
+	box-shadow: 0px 0px 0px 1px #FFF, 0 0 0 3px #B22222, 0 0 0 1px transparent;
+}
+
+/*
+ * End color scheme styles
+ */
+
+
+/*next/prev button hover state*/
+.bx-next:hover,
+.bx-prev:hover {
+	background-position: 0 0;
+}
+
+/*pager links hover and active states*/
+.bx-pager .pager-active,
+.bx-pager a:hover {
+    border: none;
+    box-shadow: 0 0 0 5px #b22222;
+}
+
+/*captions*/
+.bx-captions {
+	text-align:center;
+	font-size: 12px;
+	padding: 7px 0;
+	color: #666;
+}
+
+/*auto controls*/
+.bx-auto {
+	text-align: center;
+	padding-top: 15px;
+}
+
+.bx-auto a {
+	color: #666;
+	font-size: 12px;
+}

@@ -18,7 +18,7 @@ $_MODULE['<{dashproducts}prestashop>dashproducts_9e79098315622e58529d664b9a8b3cf
 $_MODULE['<{dashproducts}prestashop>dashproducts_ed4832a84ee072b00a6740f657183598'] = 'Visualizações';
 $_MODULE['<{dashproducts}prestashop>dashproducts_2c04f1ad7694378897b98624780327ff'] = 'Adicionado ao carrinho';
 $_MODULE['<{dashproducts}prestashop>dashproducts_ce4ee01637f4279d02d0f232459dc9a4'] = 'Comprado';
-$_MODULE['<{dashproducts}prestashop>dashproducts_37be07209f53a5d636d5c904ca9ae64c'] = 'Percentual';
+$_MODULE['<{dashproducts}prestashop>dashproducts_dcb66ff6e4a2517ade22183779939c9d'] = 'Percentagem';
 $_MODULE['<{dashproducts}prestashop>dashproducts_1eb18ea1d018abef5759cef60ddc289b'] = 'Você deve habilitar a opção \\"Salvar visualizações de página globais\\" do módulo \\"Coleta de dados para as estatísticas\\", a fim de exibir os produtos mais vistos, ou usar o módulo Google Analytics.';
 $_MODULE['<{dashproducts}prestashop>dashproducts_cf5f3091e30dee6597885d8c0e0c357f'] = 'Termo';
 $_MODULE['<{dashproducts}prestashop>dashproducts_13348442cc6a27032d2b4aa28b75a5d3'] = 'Busca';

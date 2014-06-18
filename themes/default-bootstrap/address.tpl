@@ -22,6 +22,52 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
+<script type="text/javascript" src="modules/cpfmodule/js/maskedinput.js"></script>
+<script type="text/javascript" src="modules/cpfmodule/js/functions.js"></script>
+
+<script type="text/javascript">
+var urlCep = 'modules/cpfmodule/getCep.php?cep=';
+// <![CDATA[
+var countries2 = new Array();
+var countriesNeedIDNumber2 = new Array();
+var countriesNeedZipCode2 = new Array();
+{foreach from=$countries2 item='country'}
+ {if isset($country.states) && $country.contains_states}
+    countries2[{$country.id_country|intval}] = new Array();
+    {foreach from=$country.states item='state' name='states'}
+      countries2[{$country.id_country|intval}].push({ldelim}'id' : '{$state.id_state}', 'name' : '{$state.name|addslashes}'{rdelim});
+    {/foreach}
+ {/if}
+ {if $country.need_identification_number}
+    countriesNeedIDNumber2.push({$country.id_country|intval});
+ {/if}
+ {if isset($country.need_zip_code)}
+    countriesNeedZipCode2[{$country.id_country|intval}] = {$country.need_zip_code};
+ {/if}
+{/foreach}
+$(function(){ldelim}
+$('.id_state option[value={if isset($smarty.post.id_state)}{$smarty.post.id_state|intval}{else}{if isset($address->id_state)}{$address->id_state|intval}{/if}{/if}]').attr('selected', true);
+{rdelim});
+{literal}
+ $(document).ready(function() {
+ $('#company').on('input',function(){
+   vat_number();
+ });
+  vat_number();
+  function vat_number()
+  {
+   if ($('#company').val() != '')
+     $('#vat_number').show();
+   else
+    $('#vat_number').hide();
+  }
+ });
+
+{/literal}
+//]]>
+</script>
+
+
 {capture name=path}{l s='Your addresses'}{/capture}
 <div class="box">
 	<h1 class="page-subheading">{l s='Your addresses'}</h1>
@@ -90,23 +136,42 @@
 					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" id="address1" name="address1" value="{if isset($smarty.post.address1)}{$smarty.post.address1}{else}{if isset($address->address1)}{$address->address1|escape:'html':'UTF-8'}{/if}{/if}" />
 				</div>
 			{/if}
+			
+					<!-- Inicio Alteração
+			Alteração no bloco de código para informar o Numero do Endereço. 
+		-->
+			{if $field_name eq 'numero'}
+				<div class="required form-group">
+					<label for="numero">{l s='Numero'} <sup>*</sup></label>
+					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" id="numero" name="numero" value="{if isset($smarty.post.numero)}{$smarty.post.numero}{else}{if isset($address->numero)}{$address->numero|escape:'html':'UTF-8'}{/if}{/if}" />
+				</div>
+			{/if}
+		<!-- Fim Alteração
+			Alteração no bloco de código para informar o Numero do Endereço. 
+		-->
+
+			
 			{if $field_name eq 'address2'}
 				<div class="required form-group">
 					<label for="address2">{l s='Address (Line 2)'}</label>
 					<input class="validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" id="address2" name="address2" value="{if isset($smarty.post.address2)}{$smarty.post.address2}{else}{if isset($address->address2)}{$address->address2|escape:'html':'UTF-8'}{/if}{/if}" />
 				</div>
 			{/if}
-			{if $field_name eq 'postcode'}
-				{assign var="postCodeExist" value=true}
-				<div class="required postcode form-group unvisible">
-					<label for="postcode">{l s='Zip/Postal Code'} <sup>*</sup></label>
-					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" id="postcode" name="postcode" value="{if isset($smarty.post.postcode)}{$smarty.post.postcode}{else}{if isset($address->postcode)}{$address->postcode|escape:'html':'UTF-8'}{/if}{/if}" />
-				</div>
-			{/if}
+		   {if !$postCodeExist && $field_name eq 'PostCode:name' || $field_name eq 'postcode'}
+			<div class="required postcode form-group unvisible">
+				<label for="postcode">{l s='Zip/Postal Code'} <sup>*</sup></label> <a href=".\busca_cep.htm"  target="new">    Busca CEP</a>
+				<input maxlength="9" class="is_required validate form-control" data-validate="{$address_validation.postcode.validate}" type="text" id="postcode" name="postcode" value="{if isset($smarty.post.postcode)}{$smarty.post.postcode}{else}{if isset($address->postcode)}{$address->postcode|escape:'html':'UTF-8'}{/if}{/if}" onBlur="getEndereco()" />	
+				   <span style="display:block">
+				   <span class="form_info">{l s='(somente números)'}</span>
+						<span id="alertcep" class="alertcep" name="alertcep"></span>
+						</span> 		
+			</div>
+		{/if}
+
 			{if $field_name eq 'city'}
 				<div class="required form-group">
 					<label for="city">{l s='City'} <sup>*</sup></label>
-					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" name="city" id="city" value="{if isset($smarty.post.city)}{$smarty.post.city}{else}{if isset($address->city)}{$address->city|escape:'html':'UTF-8'}{/if}{/if}" maxlength="64" />
+					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" name="city" id="city" value="{if isset($smarty.post.city)}{$smarty.post.city}{else}{if isset($address->city)}{$address->city|escape:'html':'UTF-8'}{/if}{/if}" maxlength="64"  readonly="true"   />
 				</div>
 				{* if customer hasn't update his layout address, country has to be verified but it's deprecated *}
 			{/if}
@@ -145,12 +210,8 @@
 				</div>
 			{/if}
 		{/foreach}
-		{if !$postCodeExist}
-			<div class="required postcode form-group unvisible">
-				<label for="postcode">{l s='Zip/Postal Code'} <sup>*</sup></label>
-				<input class="is_required validate form-control" data-validate="{$address_validation.postcode.validate}" type="text" id="postcode" name="postcode" value="{if isset($smarty.post.postcode)}{$smarty.post.postcode}{else}{if isset($address->postcode)}{$address->postcode|escape:'html':'UTF-8'}{/if}{/if}" />
-			</div>
-		{/if}		
+
+	
 		{if !$stateExist}
 			<div class="required id_state form-group unvisible">
 				<label for="id_state">{l s='State'} <sup>*</sup></label>

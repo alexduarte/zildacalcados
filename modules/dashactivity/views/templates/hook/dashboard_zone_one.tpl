@@ -138,13 +138,13 @@
 			<i class="icon-globe"></i> {l s='Traffic' mod='dashactivity'} <span class="subtitle small" id="traffic-subtitle"></span>
 		</header>
 		<ul class="data_list">
-			{if $gapi_mode}
+			<!--{if $gapi_mode}
 				<li>
 					<span class="data_label">
 						<a href="{$link->getAdminLink('AdminModules')}&{$gapi_mode}=gapi"><img src="../modules/dashactivity/gapi-logo.gif" width="16" height="16" /> {l s="Link to your Google Analytics account" mod="dashactivity"}</a>
 					</span>
 				</li>
-			{/if}
+			{/if}-->
 			<li>
 				<span class="data_label">{l s='Visits' mod='dashactivity'}</span>
 				<span class="data_value size_md">

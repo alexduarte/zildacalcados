@@ -28,33 +28,32 @@
 {if $display_footer}
 <div id="footer" class="bootstrap hide">
 	<div class="col-sm-2 hidden-xs">
-		<a href="http://www.prestashop.com/" target="_blank">PrestaShop&trade; {$ps_version}</a>
+		<a href="http://www.atsinformatica.com.br/" target="_blank">Resulth E-commerce</a>
 		-
 		<span id="footer-load-time"><i class="icon-time" title="{l s='Load time: '}"></i> {number_format(microtime(true) - $timer_start, 3, '.', '')}s</span>
 	</div>
 	<div class="col-sm-2 hidden-xs social-networks">
-		<a class="link-social link-twitter" href="https://twitter.com/PrestaShop" target="_blank" title="Twitter">
+		<a class="link-social link-twitter" href="https://twitter.com/AtsInformatica" target="_blank" title="Twitter">
 			<i class="icon-twitter"></i>
 		</a>
-		<a class="link-social link-facebook" href="https://www.facebook.com/prestashop" target="_blank" title="Facebook">
+		<a class="link-social link-facebook" href="https://www.facebook.com/ATSInformatica" target="_blank" title="Facebook">
 			<i class="icon-facebook"></i>
 		</a>
-		<a class="link-social link-github" href="https://github.com/PrestaShop/PrestaShop/" target="_blank" title="Github">
+	<!--	<a class="link-social link-github" href="https://github.com/PrestaShop/PrestaShop/" target="_blank" title="Github">
 			<i class="icon-github"></i>
-		</a>
-		<a class="link-social link-google" href="https://plus.google.com/+prestashop/" target="_blank" title="Google">
+		</a>-->
+		<a class="link-social link-google" href="https://plus.google.com/+AtsinformaticaBr/" target="_blank" title="Google">
 			<i class="icon-google-plus"></i>
 		</a>
 	</div>	
 
-	<div class="col-sm-4 footer-contact">
+	<div class="col-sm-4 footer-contact">  
 		<p>
-			<a href="http://www.prestashop.com/en/contact_us?utm_source=backoffice_footer" target="_blank" class="footer_link">
+			<!--<a href="http://www.prestashop.com/en/contact_us?utm_source=backoffice_footer" target="_blank" class="footer_link">
 				<i class="icon-envelope"></i>
 				{l s='Contact'}
-			</a>
-			/&nbsp;
-			<a href="http://forge.prestashop.com/?utm_source=backoffice_footer" target="_blank" class="footer_link">
+			</a>-->
+			<!--<a href="http://forge.prestashop.com/?utm_source=backoffice_footer" target="_blank" class="footer_link">
 				<i class="icon-bug"></i>
 				{l s='Bug Tracker'}
 			</a>
@@ -72,7 +71,7 @@
 			<a href="http://www.prestashop.com/en/training-prestashop?utm_source=backoffice_footer" target="_blank" class="footer_link">
 				<i class="icon-book"></i>
 				{l s='Training'}
-			</a>
+			</a>-->
 		</p>
 		{if $iso_is_fr}
 		<p>Questions • Renseignements • Formations : 

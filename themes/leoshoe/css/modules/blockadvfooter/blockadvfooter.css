@@ -1,0 +1,55 @@
+.adv-footer-wrap h2{text-transform: uppercase; color: #fff; float: left; margin-right: 10px;padding: 0;line-height: 30px;}
+.adv-footer-wrap{
+    background: #333;	
+    padding: 15px 5px;
+}
+.adv-footer-wrap .blocks{padding-bottom: 15px; padding-top: 15px;border-bottom: 1px dotted #3c3c3c; border-top: 1px dotted #3c3c3c; margin-top: 1px;}
+.adv-footer-wrap .blocks:first-child{border-top: none; padding-top: 0;}
+.block-wrap{margin: 0 10px;}
+.social_buttons{float: right;}
+.social_buttons ul{float: right;}
+.social_buttons ul li{float: left; margin-right: 7px;padding: 0!important;}
+.social_buttons ul li a{float: left;width: 30px;height: 30px;background: url(images/social.png) no-repeat 0 0;text-indent: -9999em;}
+.social_buttons ul li a.facebook{}
+.social_buttons ul li a.twitter{
+    background-position: -43px 0;
+}
+.social_buttons ul li a.twitter:hover{background-position: -43px -50px;}
+.social_buttons ul li a.google{
+    background-position: -85px 0;
+}
+.social_buttons ul li a.google:hover{
+    background-position: -85px -50px;
+}
+
+.social_buttons ul li a.feed{
+    background-position: -127px 0;
+}
+.social_buttons ul li a.feed:hover{
+    background-position: -127px -50px;
+}
+.social_buttons ul li a.youtube{
+    background-position: -170px 0px;
+}
+.social_buttons ul li a.youtube:hover{
+    background-position: -170px -50px;
+}
+.social_buttons ul li a:hover{background-position: 0 -50px; transition: all ease 0.3s}
+.widget-module{padding: 0!important;display: block;}
+.widget-module li,
+.widget-items li.link{background: url(images/bullet-li.png) no-repeat 0 center; padding-left: 10px!important;}
+.adv-footer-wrap .blockcategories_footer .title_block{display: none;}
+
+#footer #languages_block_top,
+#footer #currencies_block_top{
+   
+}
+#footer #languages_block_top p,
+#footer #currencies_block_top p{
+    border: 1px solid #444;
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    display: block;
+    width: 190px;
+}

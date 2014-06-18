@@ -99,7 +99,8 @@
 				</li>
 			{/if}
 			{if $display_poweredby}
-				<li class="last_item">{l s='[1]Ecommerce software by %s[/1]' mod='blockcms' sprintf=['PrestaShop™'] tags=['<a class="_blank" href="http://www.prestashop.com">']}</li>
+				<li class="last_item">{l s='[1]%s[/1]' mod='blockcms' sprintf=['Resulth E-Commerce™'] tags=['<a class="_blank" href="http://www.
+				atsinformatica.com.br">']}</li>
 			{/if}
 		</ul>
 		{$footer_text}

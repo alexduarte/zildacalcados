@@ -196,10 +196,9 @@ function WishlistDelete(id, id_wishlist, msg)
 	$.ajax({
 		type: 'GET',
 		async: true,
-		url: mywishlist_url,
-		headers: { "cache-control": "no-cache" },
+		url: mywishlist_url + '&rand=' + new Date().getTime(),
 		cache: false,
-		data: {rand:new Date().getTime(),deleted:1, id_wishlist:id_wishlist},
+		data: 'deleted&id_wishlist=' + id_wishlist,
 		success: function(data)
 		{
 			$('#' + id).fadeOut('slow');

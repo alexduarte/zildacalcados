@@ -11,7 +11,7 @@
   ),
   'Address' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Address.php',
     'type' => 'class',
   ),
   'AddressController' => 
@@ -1181,7 +1181,7 @@
   ),
   'Carrier' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Carrier.php',
     'type' => 'class',
   ),
   'CarrierCore' => 
@@ -1201,7 +1201,7 @@
   ),
   'Cart' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Cart.php',
     'type' => 'class',
   ),
   'CartController' => 
@@ -1437,6 +1437,11 @@
   'CountyCore' => 
   array (
     'path' => 'classes/County.php',
+    'type' => 'class',
+  ),
+  'CpfModuleData' => 
+  array (
+    'path' => 'classes/CpfModuleData.php',
     'type' => 'class',
   ),
   'Currency' => 
@@ -2204,6 +2209,16 @@
     'path' => 'classes/order/OrderCarrier.php',
     'type' => 'class',
   ),
+  'OrderCarrierPorPedido' => 
+  array (
+    'path' => '',
+    'type' => 'class',
+  ),
+  'OrderCarrierPorPedidoCore' => 
+  array (
+    'path' => 'classes/order/OrderCarrierPorPedido.php',
+    'type' => 'class',
+  ),
   'OrderCartRule' => 
   array (
     'path' => '',
@@ -2226,7 +2241,7 @@
   ),
   'OrderController' => 
   array (
-    'path' => '',
+    'path' => 'override/controllers/front/OrderController.php',
     'type' => 'class',
   ),
   'OrderControllerCore' => 

@@ -288,7 +288,9 @@ class WebserviceRequestCore
 			'tax_rules' => array('description' => 'Tax rules entity', 'class' => 'TaxRule'),
 			'tax_rule_groups' => array('description' => 'Tax rule groups', 'class' => 'TaxRulesGroup'),
 			'specific_prices' => array('description' => 'Specific price management', 'class' => 'SpecificPrice'),
-			'specific_price_rules' => array('description' => 'Specific price management', 'class' => 'SpecificPriceRule'),
+			'specific_price_rules' => array('description' => 'Specific price management', 'class' => 'SpecificPriceRule'),		
+			'cpfmodule_datas' => array('description' => 'Data of cpf module', 'class' => 'CpfModuleData'),
+			'order_carriers_id_order' => array('description' => 'The Order carriers','class' => 'OrderCarrierPorPedido'),  
 		);
 		ksort($resources);
 		return $resources;

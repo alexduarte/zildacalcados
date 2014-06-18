@@ -3711,6 +3711,7 @@ $_LANGADM['AdminModules4fca2412821c74b45d805167fe1cf170'] = 'Conecte sua loja co
 $_LANGADM['AdminModulesaf9da5bf2778b79f12056303556afe45'] = 'Logar para Addons';
 $_LANGADM['AdminModulescc22bc417fc0468624053274393c2e64'] = 'Senha do Addons';
 $_LANGADM['AdminModulesb6d4223e60986fa4c9af77ee5f7149c5'] = 'Entrar';
+$_LANGADM['AdminModulesd84dfd04006bfea23093b4ce61fe13e8'] = 'Não tem uma conta?';
 $_LANGADM['AdminModules28080c3603fb7e10f228381b181cae2c'] = 'Lista de módulos';
 $_LANGADM['AdminModules71803586f945801418d03befeb4acd99'] = 'Atualizar todos';
 $_LANGADM['AdminModulesa3105b7aa9edb1c07765bfdcdc2405b8'] = 'Verificar atualização';

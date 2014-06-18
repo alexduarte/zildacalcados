@@ -110,14 +110,14 @@
 						</a>
 					</li>
 					{/if}
-					{if isset($help_link)}
+					<!--{if isset($help_link)}
 					<li>
 						<a class="toolbar_btn btn-help" href="{$help_link|escape}" title="{l s='Help'}">
 							<i class="process-icon-help"></i>
 							<div>{l s='Help'}</div>
 						</a>
 					</li>
-					{/if}
+					{/if}-->
 				</ul>
 
 				<script type="text/javascript">

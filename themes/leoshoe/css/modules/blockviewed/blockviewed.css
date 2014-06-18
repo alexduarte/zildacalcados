@@ -1,0 +1,5 @@
+/* Block Viewed Products */
+#viewed-products_block_left .item{border-bottom: 1px dotted #ccc; margin-bottom: 10px;}
+#viewed-products_block_left .last_item{border-bottom: none;margin: 0;}
+ #viewed-products_block_left .item img{border: 1px solid #ccc; float: left; margin-right: 10px;}
+ #viewed-products_block_left .s_title_block{padding-bottom: 3px;}

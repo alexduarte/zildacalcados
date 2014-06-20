@@ -1,0 +1,14 @@
+07-05-2014 17:10:07: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [shop_number] => 
+    [trace_id] => spa-536a68efed79c
+)
+
+07-05-2014 18:08:06: Sending request to "https://api.shopgate.com/merchant/": Array
+(
+    [action] => get_mobile_redirect_user_agents
+    [shop_number] => 
+    [trace_id] => spa-536a7686f298e
+)
+

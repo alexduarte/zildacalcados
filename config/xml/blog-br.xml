@@ -13,21 +13,21 @@
 	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.prestashop.com/blog/en</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Jun 2014 17:44:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2014 21:25:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.4</generator>
 		<item>
-		<title>PretstaShop 1.6.0.7 is Now Available to Update</title>
-		<link>http://www.prestashop.com/blog/en/pretstashop-1-6-0-7-is-now-available-to-update/</link>
-		<comments>http://www.prestashop.com/blog/en/pretstashop-1-6-0-7-is-now-available-to-update/#comments</comments>
+		<title>PrestaShop 1.6.0.7 is Now Available to Update</title>
+		<link>http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/</link>
+		<comments>http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/#comments</comments>
 		<pubDate>Tue, 17 Jun 2014 17:29:50 +0000</pubDate>
 		<dc:creator>Benjamin Utterback</dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[PrestaShop News]]></category>
 
 		<guid isPermaLink="false">http://www.prestashop.com/blog/en/?p=17560</guid>
-		<description><![CDATA[Hello PrestaShop Community! The latest update to 1.6 is here! 1.6.0.7 is now released with more awesomeness. We didn’t forget to squash some bugs and clean up. Here are the main improvements in this update. &#160; Improved cart summary and &#8230; <a href="http://www.prestashop.com/blog/en/pretstashop-1-6-0-7-is-now-available-to-update/" rel="nofollow" class="more-link">Read more<span class="meta-nav"></span></a>]]></description>
+		<description><![CDATA[Hello PrestaShop Community! The latest update to 1.6 is here! 1.6.0.7 is now released with more awesomeness. We didn’t forget to squash some bugs and clean up. Here are the main improvements in this update. &#160; Improved cart summary and &#8230; <a href="http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/" rel="nofollow" class="more-link">Read more<span class="meta-nav"></span></a>]]></description>
 			<content:encoded><![CDATA[<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/en/files/2014/02/prestashop_1-6.png" alt="" />Hello PrestaShop Community!</p>
 <p><a href="http://www.prestashop.com/en/download"><strong>The latest update to 1.6 is here!</strong></a> 1.6.0.7 is now released with more awesomeness. We didn’t forget to squash some bugs and clean up.</p>
 <p>Here are the main improvements in this update.</p>
@@ -62,7 +62,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/en/pretstashop-1-6-0-7-is-now-available-to-update/feed/</wfw:commentRss>
+			<wfw:commentRss>http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
@@ -557,4 +557,4 @@ Minified using disk: basic
 Page Caching using disk: enhanced
 Object Caching 829/968 objects using disk: basic
 
-Served from: www.prestashop.com @ 2014-06-18 18:56:02 -->
+Served from: www.prestashop.com @ 2014-06-20 14:56:03 -->

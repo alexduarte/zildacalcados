@@ -11,13 +11,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '839453a357701632e2-77069320',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a41bdf2bb043_41010903',
+  'unifunc' => 'content_53a575a6d6c741_85846217',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a41bdf2bb043_41010903')) {function content_53a41bdf2bb043_41010903($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_53a575a6d6c741_85846217')) {function content_53a575a6d6c741_85846217($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
-	<form id="searchbox" method="get" action="http://192.168.2.249/zildacalcados/search" >
+	<form id="searchbox" method="get" action="http://localhost/zildacalcados/search" >
 		<input type="hidden" name="controller" value="search" />
 		<input type="hidden" name="orderby" value="position" />
 		<input type="hidden" name="orderway" value="desc" />

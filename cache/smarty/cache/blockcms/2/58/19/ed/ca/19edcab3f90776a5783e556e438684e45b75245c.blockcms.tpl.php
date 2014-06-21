@@ -11,52 +11,52 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '3188053a357729e6b33-53058296',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a41bdf6d0d30_65068846',
+  'unifunc' => 'content_53a575a910e844_21739292',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a41bdf6d0d30_65068846')) {function content_53a41bdf6d0d30_65068846($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a575a910e844_21739292')) {function content_53a575a910e844_21739292($_smarty_tpl) {?>
 	<!-- MODULE Block footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informação</h4>
 		<ul class="toggle-footer">
 							<li class="item">
-					<a href="http://192.168.2.249/zildacalcados/prices-drop" title="Promoções">
+					<a href="http://localhost/zildacalcados/prices-drop" title="Promoções">
 						Promoções
 					</a>
 				</li>
 									<li class="item">
-				<a href="http://192.168.2.249/zildacalcados/new-products" title="Novos produtos">
+				<a href="http://localhost/zildacalcados/new-products" title="Novos produtos">
 					Novos produtos
 				</a>
 			</li>
 										<li class="item">
-					<a href="http://192.168.2.249/zildacalcados/best-sales" title="Mais vendidos">
+					<a href="http://localhost/zildacalcados/best-sales" title="Mais vendidos">
 						Mais vendidos
 					</a>
 				</li>
 										<li class="item">
-					<a href="http://192.168.2.249/zildacalcados/stores" title="Nossas lojas">
+					<a href="http://localhost/zildacalcados/stores" title="Nossas lojas">
 						Nossas lojas
 					</a>
 				</li>
 									<li class="item">
-				<a href="http://192.168.2.249/zildacalcados/contact-us" title="Fale conosco">
+				<a href="http://localhost/zildacalcados/contact-us" title="Fale conosco">
 					Fale conosco
 				</a>
 			</li>
 															<li class="item">
-						<a href="http://192.168.2.249/zildacalcados/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
+						<a href="http://localhost/zildacalcados/content/3-terms-and-conditions-of-use" title="Terms and conditions of use">
 							Terms and conditions of use
 						</a>
 					</li>
 																<li class="item">
-						<a href="http://192.168.2.249/zildacalcados/content/4-about-us" title="About us">
+						<a href="http://localhost/zildacalcados/content/4-about-us" title="About us">
 							About us
 						</a>
 					</li>
 													<li>
-				<a href="http://192.168.2.249/zildacalcados/sitemap" title="Mapa do Site">
+				<a href="http://localhost/zildacalcados/sitemap" title="Mapa do Site">
 					Mapa do Site
 				</a>
 			</li>

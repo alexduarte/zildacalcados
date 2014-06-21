@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '2060253a357727d79c1-03676597',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a41bdf6a22e7_18078693',
+  'unifunc' => 'content_53a575a8d6bda9_39443271',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a41bdf6a22e7_18078693')) {function content_53a41bdf6a22e7_18078693($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a575a8d6bda9_39443271')) {function content_53a575a8d6bda9_39443271($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Categorias</h4>
@@ -31,14 +31,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li >
 	<a 
-	href="http://192.168.2.249/zildacalcados/3-chinelo" title="CHINELO">
+	href="http://localhost/zildacalcados/3-chinelo" title="CHINELO">
 		CHINELO
 	</a>
 			<ul>
 												
 <li >
 	<a 
-	href="http://192.168.2.249/zildacalcados/4-feminino" title="FEMININO">
+	href="http://localhost/zildacalcados/4-feminino" title="FEMININO">
 		FEMININO
 	</a>
 	</li>
@@ -46,7 +46,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://192.168.2.249/zildacalcados/5-masculino" title="MASCULINO">
+	href="http://localhost/zildacalcados/5-masculino" title="MASCULINO">
 		MASCULINO
 	</a>
 	</li>
@@ -58,7 +58,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://192.168.2.249/zildacalcados/6-sapatenis" title="SAPATENIS">
+	href="http://localhost/zildacalcados/6-sapatenis" title="SAPATENIS">
 		SAPATENIS
 	</a>
 	</li>
@@ -67,7 +67,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://192.168.2.249/zildacalcados/7-tenis" title="TENIS">
+	href="http://localhost/zildacalcados/7-tenis" title="TENIS">
 		TENIS
 	</a>
 	</li>

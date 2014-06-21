@@ -11,12 +11,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '3080953a35773d7ece2-01434708',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a41bdf8dfa72_32719070',
+  'unifunc' => 'content_53a575a964e913_42164878',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a41bdf8dfa72_32719070')) {function content_53a41bdf8dfa72_32719070($_smarty_tpl) {?><div id="contact-link">
-	<a href="http://192.168.2.249/zildacalcados/contact-us" title="Fale Conosco">Fale conosco</a>
+<?php if ($_valid && !is_callable('content_53a575a964e913_42164878')) {function content_53a575a964e913_42164878($_smarty_tpl) {?><div id="contact-link">
+	<a href="http://localhost/zildacalcados/contact-us" title="Fale Conosco">Fale conosco</a>
 </div>
 	<span class="shop-phone">
 		<i class="icon-phone"></i>Ligue-nos agora: <strong>0123-456-789</strong>

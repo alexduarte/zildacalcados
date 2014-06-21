@@ -10,19 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '1198553a599b7ed5302-21203329',
-  'variables' => 
-  array (
-    'link' => 0,
-    'best_sellers' => 0,
-    'product' => 0,
-    'PS_CATALOG_MODE' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a599b80f9a88_78656692',
+  'unifunc' => 'content_53a5c174bd6bf0_58172842',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a599b80f9a88_78656692')) {function content_53a599b80f9a88_78656692($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a5c174bd6bf0_58172842')) {function content_53a5c174bd6bf0_58172842($_smarty_tpl) {?>
 <!-- MODULE Block best sellers -->
 <div id="best-sellers_block_right" class="block products_block">
 	<h4 class="title_block">

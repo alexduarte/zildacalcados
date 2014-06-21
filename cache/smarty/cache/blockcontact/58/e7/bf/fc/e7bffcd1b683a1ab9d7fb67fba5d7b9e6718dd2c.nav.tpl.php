@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1031553a59940df6ba2-33276582',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995f735d07_11665132',
+  'unifunc' => 'content_53a5c16bd2e028_65629995',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5995f735d07_11665132')) {function content_53a5995f735d07_11665132($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_53a5c16bd2e028_65629995')) {function content_53a5c16bd2e028_65629995($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://localhost/zildacalcados/contact-us" title="Fale Conosco">Fale conosco</a>
 </div>
 	<span class="shop-phone">

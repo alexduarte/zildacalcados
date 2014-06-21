@@ -16,17 +16,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '892153a5995e7e0981-91128550',
-  'variables' => 
-  array (
-    'products' => 0,
-    'active_ul' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995f3359d0_20482300',
+  'unifunc' => 'content_53a5c16ba3d546_95054687',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5995f3359d0_20482300')) {function content_53a5995f3359d0_20482300($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a5c16ba3d546_95054687')) {function content_53a5c16ba3d546_95054687($_smarty_tpl) {?>
 		
 									
 		
@@ -73,7 +68,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							<meta itemprop="priceCurrency" content="0" />
 																		</div>
 										<div class="button-container">
-																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=8&amp;token=fa96f0a3b152f1882a889095d5f1a23a" rel="nofollow" title="Encomendar" data-id-product="8">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=8&amp;token=f8f10d9fb1041f90dac6c9d8f0b2c693" rel="nofollow" title="Encomendar" data-id-product="8">
 										<span>Encomendar</span>
 									</a>
 														

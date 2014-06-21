@@ -10,22 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '2868553a59967493616-57364918',
-  'variables' => 
-  array (
-    'display_link_manufacturer' => 0,
-    'link' => 0,
-    'manufacturers' => 0,
-    'text_list' => 0,
-    'text_list_nb' => 0,
-    'manufacturer' => 0,
-    'form_list' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a599675fbe20_25801667',
+  'unifunc' => 'content_53a5c174ddd7c7_37866159',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a599675fbe20_25801667')) {function content_53a599675fbe20_25801667($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a5c174ddd7c7_37866159')) {function content_53a5c174ddd7c7_37866159($_smarty_tpl) {?>
 <!-- Block manufacturers module -->
 <div id="manufacturers_block_left" class="block blockmanufacturer">
 	<p class="title_block">

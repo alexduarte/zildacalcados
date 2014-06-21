@@ -11,8 +11,7 @@ $_MODULE['<{cashondelivery}default-bootstrap>validation_1f87346a16cf80c372065de3
 $_MODULE['<{cashondelivery}default-bootstrap>validation_569fd05bdafa1712c4f6be5b153b8418'] = 'Outros métodos de pagamento';
 $_MODULE['<{cashondelivery}default-bootstrap>validation_46b9e3665f187c739c55983f757ccda0'] = 'Confirmo a minha compra';
 $_MODULE['<{cashondelivery}default-bootstrap>confirmation_88526efe38fd18179a127024aba8c1d7'] = 'Seu pedido está %s completo.';
-$_MODULE['<{cashondelivery}default-bootstrap>confirmation_8861c5d3fa54b330d1f60ba50fcc4aab'] = 'Você escolheu o método de pagamento (PNE - Pagamento na entrega)';
-$_MODULE['<{cashondelivery}default-bootstrap>confirmation_e6dc7945b557a1cd949bea92dd58963e'] = 'O pedido será enviado em breve.';
+$_MODULE['<{cashondelivery}default-bootstrap>confirmation_e6dc7945b557a1cd949bea92dd58963e'] = 'Em breve um de nossos vendedores entrará em contato para agendar sua entrega.';
 $_MODULE['<{cashondelivery}default-bootstrap>confirmation_0db71da7150c27142eef9d22b843b4a9'] = 'Para dirimir quaiquer dúvidas ou para maiores informações por favor contate o';
 $_MODULE['<{cashondelivery}default-bootstrap>confirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = 'nosso centro de suporte ao cliente';
 $_MODULE['<{cashondelivery}default-bootstrap>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = 'Pagar com dinheiro no ato da entrega (COD)';
@@ -20,5 +19,5 @@ $_MODULE['<{cashondelivery}default-bootstrap>payment_536dc7424180872c8c2488ae028
 $_MODULE['<{cashondelivery}default-bootstrap>validation_0c25b529b4d690c39b0831840d0ed01c'] = 'Resumo da compra';
 $_MODULE['<{cashondelivery}default-bootstrap>validation_8861c5d3fa54b330d1f60ba50fcc4aab'] = 'Você escolheu o método de pagamento (PNE - Pagamento na entrega)';
 $_MODULE['<{cashondelivery}default-bootstrap>validation_0881a11f7af33bc1b43e437391129d66'] = 'Por favor, confirme a sua compra selecionado \'Confirmo a minha compra\'';
-$_MODULE['<{cashondelivery}default-bootstrap>confirmation_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Sua compra em';
+$_MODULE['<{cashondelivery}default-bootstrap>confirmation_2e2117b7c81aa9ea6931641ea2c6499f'] = 'Sua encomenda em';
 $_MODULE['<{cashondelivery}default-bootstrap>confirmation_75fbf512d744977d62599cc3f0ae2bb4'] = 'esta completa';

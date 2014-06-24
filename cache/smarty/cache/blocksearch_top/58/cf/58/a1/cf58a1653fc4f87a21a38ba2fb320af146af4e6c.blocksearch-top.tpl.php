@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '2714853a5993eb4ac12-55977864',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995e5a8ba6_93818100',
+  'unifunc' => 'content_53a5c16b5c61e4_27201187',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5995e5a8ba6_93818100')) {function content_53a5995e5a8ba6_93818100($_smarty_tpl) {?><!-- Block search module TOP -->
+<?php if ($_valid && !is_callable('content_53a5c16b5c61e4_27201187')) {function content_53a5c16b5c61e4_27201187($_smarty_tpl) {?><!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
 	<form id="searchbox" method="get" action="http://localhost/zildacalcados/search" >
 		<input type="hidden" name="controller" value="search" />

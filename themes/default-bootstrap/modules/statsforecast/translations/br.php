@@ -13,9 +13,9 @@ $_MODULE['<{statsforecast}default-bootstrap>statsforecast_3bb1503332637805beddb7
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_ae5d01b6efa819cc7a7c05a8c57fcc2c'] = 'Visitantes';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_9b945efebb006547a94415eadaa12921'] = 'Contas';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_87cac5a0b60008003ccf46dc1d49e0c3'] = 'Carrinhos cheios';
-$_MODULE['<{statsforecast}default-bootstrap>statsforecast_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Pedidos';
+$_MODULE['<{statsforecast}default-bootstrap>statsforecast_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Encomendas';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_5a9e532b24379dca2ab0e973172a78e1'] = 'Visitantes registrados';
-$_MODULE['<{statsforecast}default-bootstrap>statsforecast_fc26e55e0993a75e892175deb02aae15'] = 'Carrinhos de Compras';
+$_MODULE['<{statsforecast}default-bootstrap>statsforecast_fc26e55e0993a75e892175deb02aae15'] = 'Carrinhos de Encomendas';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_3fa6443ce3f838b6901b70cd812abf0d'] = 'Distribuição de pagamento';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_e6e42855066e7a3ae050b2c698021b14'] = 'Zona:';
 $_MODULE['<{statsforecast}default-bootstrap>statsforecast_5ed26836c96d7dcae8a40307e8e250c3'] = '-- Sem filtro --';

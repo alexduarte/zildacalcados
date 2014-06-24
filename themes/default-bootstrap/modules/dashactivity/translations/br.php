@@ -21,7 +21,7 @@ $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_edfc5fccc0439856b5
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_962b7da7912bc637b03626e23b5832b5'] = 'nos últimos %d minutos';
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_7aaacf26dbf7d8929916618bb57d81f8'] = 'Carrinhos Ativos';
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_24042b0e4b783724dac4178df4db5d68'] = 'Atualmente Pendente';
-$_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Pedidos';
+$_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_7442e29d7d53e549b78d93c46b8cdcfc'] = 'Encomendas';
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_247d96cbab5bfc79dff10eb2ce6d8897'] = 'Devoluções / Trocas';
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_54e85d70ea67acdcc86963b14d6223a8'] = 'Carrinhos Abandonados';
 $_MODULE['<{dashactivity}default-bootstrap>dashboard_zone_one_1c4407dd95b9ef941d30c2838208977e'] = 'Produtos Esgotados';

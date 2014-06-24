@@ -53,8 +53,8 @@ $_MODULE['<{blockwishlist}default-bootstrap>view_87f8a6ab85c9ced3702b4ea641ad4bb
 $_MODULE['<{blockwishlist}default-bootstrap>view_28d0edd045e05cf5af64e35ae0c4c6ef'] = 'Baixa';
 $_MODULE['<{blockwishlist}default-bootstrap>managewishlist_0ac1aeb2429db494dd42ad2dc219ca7e'] = 'Ocultar produtos';
 $_MODULE['<{blockwishlist}default-bootstrap>managewishlist_0de9d09a36e820f9da7e87ab3678dd12'] = 'Exibir produtos';
-$_MODULE['<{blockwishlist}default-bootstrap>managewishlist_0bb3e067c0514f5ff2d5a8e45fc0f4be'] = 'Esconder informações dos produtos comprados';
-$_MODULE['<{blockwishlist}default-bootstrap>managewishlist_6fe88f5681da397d46fefe19b3020a6a'] = 'Mostrar informações dos produtos comprados';
+$_MODULE['<{blockwishlist}default-bootstrap>managewishlist_0bb3e067c0514f5ff2d5a8e45fc0f4be'] = 'Esconder informações dos produtos encomendados';
+$_MODULE['<{blockwishlist}default-bootstrap>managewishlist_6fe88f5681da397d46fefe19b3020a6a'] = 'Mostrar informações dos produtos encomendados';
 $_MODULE['<{blockwishlist}default-bootstrap>managewishlist_8725214cdd9f9af24e914b5da135793d'] = 'Link permanent';
 $_MODULE['<{blockwishlist}default-bootstrap>managewishlist_30820a1bf6a285e45cda2beda3d7738d'] = 'Enviar esta lista de presentes';
 $_MODULE['<{blockwishlist}default-bootstrap>managewishlist_f2a6c498fb90ee345d997f888fce3b18'] = 'Apagar';

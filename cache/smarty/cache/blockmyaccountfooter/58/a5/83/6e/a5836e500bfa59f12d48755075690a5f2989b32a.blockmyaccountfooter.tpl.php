@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '813053a59940202797-60344471',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995f44aa87_06493272',
+  'unifunc' => 'content_53a5c16bb4eac8_36490945',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5995f44aa87_06493272')) {function content_53a5995f44aa87_06493272($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53a5c16bb4eac8_36490945')) {function content_53a5c16bb4eac8_36490945($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/zildacalcados/my-account" title="Gerenciar minha conta de usuário" rel="nofollow">Minha Conta</a></h4>
@@ -26,7 +26,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<li><a href="http://localhost/zildacalcados/addresses" title="Meus endereços" rel="nofollow">Meus endereços</a></li>
 			<li><a href="http://localhost/zildacalcados/identity" title="Gerenciar minhas informações pessoais" rel="nofollow">Minhas Informações</a></li>
 						
-            		</ul>
+            <li><a href="http://localhost/zildacalcados/?mylogout" title="Sair" rel="nofollow">Sair</a></li>		</ul>
 	</div>
 </section>
 <!-- /Block myaccount module -->

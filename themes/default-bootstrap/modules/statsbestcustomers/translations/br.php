@@ -8,7 +8,7 @@ $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_77587239bf4c
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_bc910f8bdf70f29374f496f05be0330c'] = 'Nome';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'e-mail:';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_d7e637a6e9ff116de2fa89551240a94d'] = 'Visitas';
-$_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_ec1ee973b8947391f8f014c76ac7379f'] = 'Pedidos válidos';
+$_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_ec1ee973b8947391f8f014c76ac7379f'] = 'Encomendas válidos';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_1ff1b62d08d1195f073c6adac00f1894'] = 'Dinheiro gasto';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_8b83489bd116cb60e2f348e9c63cd7f6'] = 'Melhores clientes';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_9a1643c70b51526dd35d546ef8e17b87'] = 'Adiciona uma lista com os melhores clientes ao Painel de Estatísticas';
@@ -19,5 +19,5 @@ $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_197bad7ad08a
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_bf0d87b5aa8d331563ee61f2ac82069d'] = 'Para atingir este objetivo você deve organizar:';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_397a5e109a5897ee7d699050cbc93347'] = 'Operações pontuais: recompensas comerciais (personalize ofertas especiais, ofertas de produto ou serviço), recompensas não comerciais (tratamento prioritário de uma ordem ou um produto), recompensas pecuniárias (títulos, cupons de desconto, reembolso).';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_4bc24eed56e0ba89fc3ab4e094d18d8a'] = 'Operações sustentáveis​​: pontos de fidelidade ou cartões, que não só aproximam a comunicação entre comerciante e cliente, mas também oferecem vantagens aos clientes (ofertas especiais, descontos).';
-$_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_2f408c42912e3afe23a0e4adcbe34b96'] = 'Estas operações encorajam os clientes a comprar produtos e visitar sua loja virtual regularmente.';
+$_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_2f408c42912e3afe23a0e4adcbe34b96'] = 'Estas operações encorajam os clientes a encomendar produtos e visitar sua loja virtual regularmente.';
 $_MODULE['<{statsbestcustomers}default-bootstrap>statsbestcustomers_998e4c5c80f27dec552e99dfed34889a'] = 'Exportar CSV';

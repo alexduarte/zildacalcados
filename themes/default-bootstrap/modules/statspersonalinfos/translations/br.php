@@ -6,14 +6,14 @@ $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_1b94af23fd8e
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_b0cb4ea4e89c2107cb100be8417fd94e'] = 'Adiciona informações sobre seus clientes cadastrados (como gênero e idade) ao Painel de Estatísticas.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_6602bbeb2956c035fb4cb5e844a4861b'] = 'Guia';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_3ca26e413e485538a7f3e610c0324636'] = 'Seu público alvo';
-$_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_74036f0101d2f3f9b082b8de981c18dc'] = 'Em cada mensagem de compra para ter um impacto, você precisa saber para quem ela deve ser dirigida.';
+$_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_74036f0101d2f3f9b082b8de981c18dc'] = 'Em cada mensagem de encomenda para ter um impacto, você precisa saber para quem ela deve ser dirigida.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_daa0ad6a8b07a64f18b26e0f5e1255bd'] = 'Dirigindo-se ao público certo é essencial para a escolha das ferramentas certas para conquistá-los.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_8044a3d0d61282c4c425cd0da5432f11'] = 'É melhor para limitar a ação de um grupo ou grupos de clientes.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_05f074d112460c990203ff2f17a7d46d'] = 'Armazenar informações do cliente lhe permite definir com precisão o perfil do cliente, para que possa adaptar suas promoções com vários critérios.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_9dc739320e2523183e8b31f395e1e489'] = 'Você deve usar essa informação para aumentar suas vendas:';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_2f619981f1abd95da0907766cc409be9'] = 'Lançando campanhas de publicidade dirigidas a clientes específicos.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_428dc481e13dad2818d8088da7362dd2'] = 'Contatando com um grupo de clientes por e-mail/newsletter.';
-$_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_12344d957b4aee1e2c322549ddc9741f'] = 'Distribuição por gênero, lhe permite determinar o percentual de homens e mulheres que compram na sua loja.';
+$_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_12344d957b4aee1e2c322549ddc9741f'] = 'Distribuição por gênero, lhe permite determinar o percentual de homens e mulheres que encomendam na sua loja.';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_998e4c5c80f27dec552e99dfed34889a'] = 'Exportar CSV';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_08a12630390dc8ddd4c9fdcd9060dce6'] = 'Faixas etárias permite determinar alvos por idade';
 $_MODULE['<{statspersonalinfos}default-bootstrap>statspersonalinfos_db9750afee08c6e88c91fbe1b3404ba6'] = 'Distribuição por País permite analisar em que parte do mundo estão os seus clientes.';

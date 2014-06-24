@@ -1,6 +1,6 @@
 ﻿#Arquivo de configura��o
-#settings.inc.php
+settings.inc.php
 #config
 #Arquivos de cache
-#cache
-#xandao
+cache
+xandao

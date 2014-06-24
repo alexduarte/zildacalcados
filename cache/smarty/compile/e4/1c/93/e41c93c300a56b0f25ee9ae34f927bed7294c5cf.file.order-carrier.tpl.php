@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:41:14
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-23 11:53:38
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\order-carrier.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2624853a5998abb0935-33382814%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e41c93c300a56b0f25ee9ae34f927bed7294c5cf' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\order-carrier.tpl',
-      1 => 1403354794,
+      1 => 1403538808,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a5998b25c2a2_79158962',
   'variables' => 
   array (
     'opc' => 0,
@@ -58,8 +60,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'currencyBlank' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5998b25c2a2_79158962',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a5998b25c2a2_79158962')) {function content_53a5998b25c2a2_79158962($_smarty_tpl) {?>
 <?php if (!$_smarty_tpl->tpl_vars['opc']->value){?>
@@ -139,7 +139,7 @@ $_smarty_tpl->tpl_vars['option']->_loop = true;
  $_smarty_tpl->tpl_vars['key']->value = $_smarty_tpl->tpl_vars['option']->key;
  $_smarty_tpl->tpl_vars['option']->index++;
 ?>
-								<div class="delivery_option <?php if (($_smarty_tpl->tpl_vars['option']->index%2)){?>alternate_<?php }?>item">
+								<div class="delivery_option item">
 									<div>
 										<table class="resume table table-bordered">
 											<tr>

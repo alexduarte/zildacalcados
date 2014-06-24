@@ -68,7 +68,7 @@
 						</p>
 						<div class="delivery_options">
 							{foreach $option_list as $key => $option}
-								<div class="delivery_option {if ($option@index % 2)}alternate_{/if}item">
+								<div class="delivery_option item">
 									<div>
 										<table class="resume table table-bordered">
 											<tr>

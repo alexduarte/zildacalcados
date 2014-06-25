@@ -6,7 +6,7 @@ $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_b97d23f7
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_abdb95361b4c92488add0a5a37afabcb'] = 'Exibe um bloco com links para a conta do usuário.';
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_ae9ec80afffec5a455fbf2361a06168a'] = 'Gerenciar minha conta de usuário';
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_d95cf4ab2cbf1dfb63f066b50558b07d'] = 'Minha Conta';
-$_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_74ecd9234b2a42ca13e775193f391833'] = 'Minhas Compras';
+$_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_74ecd9234b2a42ca13e775193f391833'] = 'Minhas Encomendas';
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_5973e925605a501b18e48280f04f0347'] = 'Retorno de produtos';
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_89080f0eedbd5491a93157930f1e45fc'] = 'Minhas devoluções';
 $_MODULE['<{blockmyaccountfooter}default-bootstrap>blockmyaccountfooter_9132bc7bac91dd4e1c453d4e96edf219'] = 'Meus cupons de crédito';

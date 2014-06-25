@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:40:00
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:07:30
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\blockuserinfo\nav.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2656553a59940bdaf39-75136022%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '15ca6bd8b1c3e448a3668507f07b4b1553dd02ce' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockuserinfo\\nav.tpl',
-      1 => 1403354794,
+      1 => 1403618691,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a59940c475e2_60414983',
   'variables' => 
   array (
     'is_logged' => 0,
@@ -22,8 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cookie' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a59940c475e2_60414983',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a59940c475e2_60414983')) {function content_53a59940c475e2_60414983($_smarty_tpl) {?><!-- Block user information module NAV  -->
 <?php if ($_smarty_tpl->tpl_vars['is_logged']->value){?>

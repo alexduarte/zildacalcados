@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:39:59
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:07:28
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\blockwishlist\blockwishlist_top.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2927553a5993f8561a5-04666338%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd924a04d25a173173cb3f81c550874866cf9fd43' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockwishlist\\blockwishlist_top.tpl',
-      1 => 1403354794,
+      1 => 1403618691,
       2 => 'file',
     ),
   ),
@@ -15,14 +15,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a5993f8c5e21_63939780',
   'variables' => 
   array (
     'wishlist_products' => 0,
     'link' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5993f8c5e21_63939780',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a5993f8c5e21_63939780')) {function content_53a5993f8c5e21_63939780($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('wishlistProductsIds'=>$_smarty_tpl->tpl_vars['wishlist_products']->value),$_smarty_tpl);?>

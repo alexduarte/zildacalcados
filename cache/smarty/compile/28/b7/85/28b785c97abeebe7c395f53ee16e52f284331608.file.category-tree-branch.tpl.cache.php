@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:39:59
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:07:29
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\blockcategories\category-tree-branch.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2832453a5993fdb0326-90486563%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '28b785c97abeebe7c395f53ee16e52f284331608' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockcategories\\category-tree-branch.tpl',
-      1 => 1403354793,
+      1 => 1403618690,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a5993fe3c8c4_84868336',
   'variables' => 
   array (
     'last' => 0,
@@ -23,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'child' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5993fe3c8c4_84868336',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a5993fe3c8c4_84868336')) {function content_53a5993fe3c8c4_84868336($_smarty_tpl) {?>
 

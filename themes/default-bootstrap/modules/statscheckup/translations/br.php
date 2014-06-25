@@ -14,7 +14,7 @@ $_MODULE['<{statscheckup}default-bootstrap>statscheckup_5cd1930570823694abdd596f
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_fff0d600f8a0b5e19e88bfb821dd1157'] = 'Imagens';
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_59b514174bffe4ae402b3d63aad79fe0'] = 'Imagens';
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_11ff9f68afb6b8b5b8eda218d7c83a65'] = 'Vendas';
-$_MODULE['<{statscheckup}default-bootstrap>statscheckup_c3917e1f7138a24c6dc954fe81b86679'] = 'pedidos / mês';
+$_MODULE['<{statscheckup}default-bootstrap>statscheckup_c3917e1f7138a24c6dc954fe81b86679'] = 'encomendas / mês';
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_7bd5825a187064017975513b95d7f7de'] = 'Quantidade disponível para venda';
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_691d502cfd0e0626cd3b058e5682ad1c'] = 'itens';
 $_MODULE['<{statscheckup}default-bootstrap>statscheckup_dc270bcf468689b19074a5eef7581b52'] = 'Não suficientes';

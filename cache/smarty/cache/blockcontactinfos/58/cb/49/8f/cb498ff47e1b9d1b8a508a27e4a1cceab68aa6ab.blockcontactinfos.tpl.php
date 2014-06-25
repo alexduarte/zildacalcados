@@ -5,17 +5,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cb498ff47e1b9d1b8a508a27e4a1cceab68aa6ab' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockcontactinfos\\blockcontactinfos.tpl',
-      1 => 1403354793,
+      1 => 1403618690,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '2094753a5994035ebb9-38251636',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5c16bb859a2_44400262',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53aab10c0d2379_34029003',
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5c16bb859a2_44400262')) {function content_53a5c16bb859a2_44400262($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53aab10c0d2379_34029003')) {function content_53aab10c0d2379_34029003($_smarty_tpl) {?>
 <!-- MODULE Block contact infos -->
 <section id="block_contact_infos" class="footer-block col-xs-12 col-sm-4">
 	<div>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:41:09
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:07:31
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\blockmyaccount\blockmyaccount.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1900453a59985f2bd76-86742043%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'a0e10f6c0d5f6ef635cef55667d54245bfd91277' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockmyaccount\\blockmyaccount.tpl',
-      1 => 1403354793,
+      1 => 1403618690,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a599860e8b01_74670442',
   'variables' => 
   array (
     'link' => 0,
@@ -23,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'HOOK_BLOCK_MY_ACCOUNT' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a599860e8b01_74670442',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a599860e8b01_74670442')) {function content_53a599860e8b01_74670442($_smarty_tpl) {?>
 

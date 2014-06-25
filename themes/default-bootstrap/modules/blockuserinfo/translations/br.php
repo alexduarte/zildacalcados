@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_a2e9cd952cda8ba167e62b25a496c6c1'] = 'Bloco de informações do cliente';
 $_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_970a31aa19d205f92ccfd1913ca04dc0'] = 'Adiciona um bloco que exibe informações sobre o cliente.';
-$_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_0c3bf3014aafb90201805e45b5e62881'] = 'Ver meu carrinho de compras';
+$_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_0c3bf3014aafb90201805e45b5e62881'] = 'Ver meu carrinho de encomendas';
 $_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_a85eba4c6c699122b2bb1387ea4813ad'] = 'Carrinho';
 $_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_deb10517653c255364175796ace3553f'] = 'Produto';
 $_MODULE['<{blockuserinfo}default-bootstrap>blockuserinfo_068f80c7519d0528fb08e82137a72131'] = 'Produtos';

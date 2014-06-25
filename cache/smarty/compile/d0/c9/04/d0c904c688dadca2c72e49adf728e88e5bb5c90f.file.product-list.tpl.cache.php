@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:40:30
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-25 07:22:49
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\product-list.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:937453a5995e845506-61382703%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd0c904c688dadca2c72e49adf728e88e5bb5c90f' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\product-list.tpl',
-      1 => 1403354794,
+      1 => 1403618692,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a5995ee8c392_83280633',
   'variables' => 
   array (
     'products' => 0,
@@ -43,8 +45,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'compared_products' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995ee8c392_83280633',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a5995ee8c392_83280633')) {function content_53a5995ee8c392_83280633($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include 'C:\\wamp\\www\\zildacalcados\\tools\\smarty\\plugins\\function.math.php';
 ?>

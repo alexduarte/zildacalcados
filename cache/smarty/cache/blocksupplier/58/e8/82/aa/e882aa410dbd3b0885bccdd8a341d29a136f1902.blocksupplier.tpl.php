@@ -5,17 +5,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e882aa410dbd3b0885bccdd8a341d29a136f1902' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blocksupplier\\blocksupplier.tpl',
-      1 => 1403354794,
+      1 => 1403618691,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '2792053a59967732417-12406781',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5c1751b33f6_39007283',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53aab11250c121_31124640',
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5c1751b33f6_39007283')) {function content_53a5c1751b33f6_39007283($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53aab11250c121_31124640')) {function content_53aab11250c121_31124640($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block">

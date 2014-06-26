@@ -1,21 +1,42 @@
-<?php /*%%SmartyHeaderCode:1742153a5993fe97704-92789263%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2504153abb08ade74b3-44450539%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '19edcab3f90776a5783e556e438684e45b75245c' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blockcms\\blockcms.tpl',
-      1 => 1403354793,
+      1 => 1403618690,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1742153a5993fe97704-92789263',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5c16bb26502_04141628',
+  'nocache_hash' => '2504153abb08ade74b3-44450539',
+  'variables' => 
+  array (
+    'block' => 0,
+    'cms_titles' => 0,
+    'cms_key' => 0,
+    'cms_title' => 0,
+    'cms_page' => 0,
+    'link' => 0,
+    'show_price_drop' => 0,
+    'PS_CATALOG_MODE' => 0,
+    'show_new_products' => 0,
+    'show_best_sales' => 0,
+    'display_stores_footer' => 0,
+    'show_contact' => 0,
+    'contact_url' => 0,
+    'cmslinks' => 0,
+    'cmslink' => 0,
+    'show_sitemap' => 0,
+    'footer_text' => 0,
+    'display_poweredby' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abb08b136971_78355261',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5c16bb26502_04141628')) {function content_53a5c16bb26502_04141628($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53abb08b136971_78355261')) {function content_53abb08b136971_78355261($_smarty_tpl) {?>
 	<!-- MODULE Block footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informação</h4>

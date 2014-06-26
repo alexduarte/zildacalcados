@@ -1,21 +1,31 @@
-<?php /*%%SmartyHeaderCode:2792053a59967732417-12406781%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:3262753abb08d1147d7-39292564%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'e882aa410dbd3b0885bccdd8a341d29a136f1902' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\blocksupplier\\blocksupplier.tpl',
-      1 => 1403354794,
+      1 => 1403618691,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2792053a59967732417-12406781',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5c1751b33f6_39007283',
+  'nocache_hash' => '3262753abb08d1147d7-39292564',
+  'variables' => 
+  array (
+    'display_link_supplier' => 0,
+    'link' => 0,
+    'suppliers' => 0,
+    'text_list' => 0,
+    'text_list_nb' => 0,
+    'supplier' => 0,
+    'form_list' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abb08d24e4d7_60664048',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5c1751b33f6_39007283')) {function content_53a5c1751b33f6_39007283($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53abb08d24e4d7_60664048')) {function content_53abb08d24e4d7_60664048($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block">

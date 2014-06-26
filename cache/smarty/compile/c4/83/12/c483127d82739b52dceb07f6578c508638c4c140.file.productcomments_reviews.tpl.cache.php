@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-25 07:22:50
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 07:11:12
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\productcomments\productcomments_reviews.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2751953a5995f287954-80779554%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2026553abffd0c1e3d7-56049246%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,20 +11,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2751953a5995f287954-80779554',
+  'nocache_hash' => '2026553abffd0c1e3d7-56049246',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5995f2c4e05_50193102',
   'variables' => 
   array (
     'nbComments' => 0,
     'averageTotal' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abffd0d08869_60314038',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5995f2c4e05_50193102')) {function content_53a5995f2c4e05_50193102($_smarty_tpl) {?> 
+<?php if ($_valid && !is_callable('content_53abffd0d08869_60314038')) {function content_53abffd0d08869_60314038($_smarty_tpl) {?> 
 <?php if (isset($_smarty_tpl->tpl_vars['nbComments']->value)&&$_smarty_tpl->tpl_vars['nbComments']->value>0){?>
 	<div class="comments_note" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">	
 		<div class="star_content clearfix">

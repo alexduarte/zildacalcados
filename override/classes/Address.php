@@ -2,11 +2,14 @@
 	/** @var string numero first line */
 	public $numero;
 
+    /** @var datetime date of delivery*/
+    public $delivery_date;
+
     
     private $new_fields = array();
      public  function __construct($id_address = NULL, $id_lang = NULL){
         $this->nd_addField('numero', parent::TYPE_STRING, 'isGenericName', null, true);
-         
+        $this->nd_addField('delivery_date',parent::TYPE_STRING,'isGenericName',null,false);
         
  
         //nao mexer a partir daqui

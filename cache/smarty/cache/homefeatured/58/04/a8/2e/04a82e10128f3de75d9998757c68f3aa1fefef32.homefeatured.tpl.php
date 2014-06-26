@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:892153a5995e7e0981-91128550%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:408353abffd02aceb1-65125817%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,18 +15,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '892153a5995e7e0981-91128550',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53aab10b249a06_79231011',
+  'nocache_hash' => '408353abffd02aceb1-65125817',
   'variables' => 
   array (
     'products' => 0,
     'active_ul' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abffd0ece268_93333070',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53aab10b249a06_79231011')) {function content_53aab10b249a06_79231011($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53abffd0ece268_93333070')) {function content_53abffd0ece268_93333070($_smarty_tpl) {?>
 		
 									
 		
@@ -73,7 +73,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							<meta itemprop="priceCurrency" content="0" />
 																		</div>
 										<div class="button-container">
-																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=8&amp;token=fa96f0a3b152f1882a889095d5f1a23a" rel="nofollow" title="Encomendar" data-id-product="8">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=8&amp;token=f8f10d9fb1041f90dac6c9d8f0b2c693" rel="nofollow" title="Encomendar" data-id-product="8">
 										<span>Encomendar</span>
 									</a>
 														
@@ -127,7 +127,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							<meta itemprop="priceCurrency" content="0" />
 																		</div>
 										<div class="button-container">
-																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=9&amp;token=fa96f0a3b152f1882a889095d5f1a23a" rel="nofollow" title="Encomendar" data-id-product="9">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=9&amp;token=f8f10d9fb1041f90dac6c9d8f0b2c693" rel="nofollow" title="Encomendar" data-id-product="9">
 										<span>Encomendar</span>
 									</a>
 														

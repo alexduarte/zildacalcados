@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:1031553a59940df6ba2-33276582%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2561453abb08bda8849-88750380%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1031553a59940df6ba2-33276582',
-  'cache_lifetime' => 31536000,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53aab10e2d35c0_15238278',
+  'nocache_hash' => '2561453abb08bda8849-88750380',
+  'variables' => 
+  array (
+    'link' => 0,
+    'telnumber' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abb08bdf9767_67817573',
+  'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53aab10e2d35c0_15238278')) {function content_53aab10e2d35c0_15238278($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_53abb08bdf9767_67817573')) {function content_53abb08bdf9767_67817573($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://localhost/zildacalcados/contact-us" title="Fale Conosco">Fale conosco</a>
 </div>
 	<span class="shop-phone">

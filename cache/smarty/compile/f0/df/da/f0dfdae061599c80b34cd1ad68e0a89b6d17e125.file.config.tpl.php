@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:39:33
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:08:50
          compiled from "C:\wamp\www\zildacalcados\modules\dashgoals\views\templates\hook\config.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:90053a59925cc7ba3-15436452%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f0dfdae061599c80b34cd1ad68e0a89b6d17e125' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\modules\\dashgoals\\views\\templates\\hook\\config.tpl',
-      1 => 1403354789,
+      1 => 1403618676,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a59925d44915_62933575',
   'variables' => 
   array (
     'link' => 0,
@@ -24,8 +26,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'currency' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a59925d44915_62933575',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a59925d44915_62933575')) {function content_53a59925d44915_62933575($_smarty_tpl) {?>
 

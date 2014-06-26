@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
 	<name>statssales</name>
-	<displayName><![CDATA[Vendas e compras]]></displayName>
-	<version><![CDATA[1.2]]></version>
-	<description><![CDATA[Adiciona a evolu&ccedil;&atilde;o de vendas e pedidos por status.]]></description>
+	<displayName><![CDATA[Vendas e encomendas]]></displayName>
+	<version><![CDATA[1.2.1]]></version>
+	<description><![CDATA[Adds graphics presenting the evolution of sales and orders to the Stats dashboard.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>
 	<is_configurable>0</is_configurable>

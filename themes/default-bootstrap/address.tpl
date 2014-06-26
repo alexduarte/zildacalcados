@@ -21,10 +21,9 @@
 *  @copyright  2007-2014 PrestaShop SA
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
-*}
+*}​
 <script type="text/javascript" src="modules/cpfmodule/js/maskedinput.js"></script>
 <script type="text/javascript" src="modules/cpfmodule/js/functions.js"></script>
-
 <script type="text/javascript">
 var urlCep = 'modules/cpfmodule/getCep.php?cep=';
 // <![CDATA[
@@ -65,6 +64,17 @@ $('.id_state option[value={if isset($smarty.post.id_state)}{$smarty.post.id_stat
 
 {/literal}
 //]]>
+ $('.form_datetime').datetimepicker({
+        format: 'dd/mm/yyyy hh:mm:ss',
+        language:  'pt-BR',
+        weekStart: 1,
+        todayBtn:  1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		forceParse: 0
+    });
+
 </script>
 
 
@@ -146,11 +156,10 @@ $('.id_state option[value={if isset($smarty.post.id_state)}{$smarty.post.id_stat
 					<input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" type="text" id="numero" name="numero" value="{if isset($smarty.post.numero)}{$smarty.post.numero}{else}{if isset($address->numero)}{$address->numero|escape:'html':'UTF-8'}{/if}{/if}" />
 				</div>
 			{/if}
+
 		<!-- Fim Alteração
 			Alteração no bloco de código para informar o Numero do Endereço. 
-		-->
-
-			
+		-->		
 			{if $field_name eq 'address2'}
 				<div class="required form-group">
 					<label for="address2">{l s='Address (Line 2)'}</label>
@@ -209,9 +218,21 @@ $('.id_state option[value={if isset($smarty.post.id_state)}{$smarty.post.id_stat
 					<input class="validate form-control" data-validate="{$address_validation.phone_mobile.validate}" type="tel" id="phone_mobile" name="phone_mobile" value="{if isset($smarty.post.phone_mobile)}{$smarty.post.phone_mobile}{else}{if isset($address->phone_mobile)}{$address->phone_mobile|escape:'html':'UTF-8'}{/if}{/if}" />
 				</div>
 			{/if}
-		{/foreach}
 
-	
+			{if $PS_SHOW_DELIVERY_DATE}
+
+			{if $field_name eq 'delivery_date'}
+	        <div class="form-group"> 
+	           <label for="delivery_date" class="control-label">{l s='Delivery date'}</label><br/>               
+                <div  class="input-group date form_datetime form-control"  >                    
+                    <input class="is_required validate form-control" data-validate="{$address_validation.$field_name.validate}" name="delivery_date" id="delivery_date" type="text" value="{if isset($smarty.post.delivery_date)}{$smarty.post.delivery_date}{else}{if isset($address->delivery_date)}{$address->delivery_date|escape:'html':'UTF-8'}{/if}{/if}"  readonly>
+                    <span class="input-group-addon"><span class="icon-remove"></span></span>
+					<span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+                </div>
+            </div>
+			{/if}			
+			{/if}
+		{/foreach}
 		{if !$stateExist}
 			<div class="required id_state form-group unvisible">
 				<label for="id_state">{l s='State'} <sup>*</sup></label>
@@ -220,6 +241,7 @@ $('.id_state option[value={if isset($smarty.post.id_state)}{$smarty.post.id_stat
 				</select>
 			</div>
 		{/if}
+		
 		{if !$dniExist}
 			<div class="required dni form-group unvisible">
 				<label for="dni">{l s='Identification number'} <sup>*</sup></label>

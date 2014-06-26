@@ -2,7 +2,7 @@
 <module>
 	<name>blockcurrencies</name>
 	<displayName><![CDATA[Bloco de moedas]]></displayName>
-	<version><![CDATA[0.3]]></version>
+	<version><![CDATA[0.3.1]]></version>
 	<description><![CDATA[Adiciona um bloco para sele&ccedil;&atilde;o de moeda.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

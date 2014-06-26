@@ -2,7 +2,7 @@
 <module>
 	<name>blockpaymentlogo</name>
 	<displayName><![CDATA[Bloco de logotipos de pagamento.]]></displayName>
-	<version><![CDATA[0.3]]></version>
+	<version><![CDATA[0.3.1]]></version>
 	<description><![CDATA[Adiciona um Bloco com seus logotipos de pagamento.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

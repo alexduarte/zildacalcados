@@ -63,7 +63,11 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/feed/</wfw:commentRss>
+<<<<<<< HEAD
+		<slash:comments>2</slash:comments>
+=======
 		<slash:comments>3</slash:comments>
+>>>>>>> f2715e34e995550843b564d7cb90b4c1408c2c4a
 		</item>
 		<item>
 		<title>Ecommerce Success Story – An up close look at WishTrend’s tripling growth</title>
@@ -550,6 +554,27 @@ HiPay constantly works and negotiates with banks, to be able to offer all the pa
 		</item>
 	</channel>
 </rss>
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk: basic
+Page Caching using disk: enhanced
+Object Caching 829/968 objects using disk: basic
+
+Served from: www.prestashop.com @ 2014-06-24 12:56:02 -->
+=======
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk: basic
+Page Caching using disk: enhanced
+Object Caching 829/968 objects using disk: basic
+
+Served from: www.prestashop.com @ 2014-06-23 11:56:02 -->
+>>>>>>> 5720a6ca9bae62cc60ea829a8143f3d8bf9db84a
+=======
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
@@ -558,3 +583,4 @@ Page Caching using disk: enhanced
 Object Caching 829/968 objects using disk: basic
 
 Served from: www.prestashop.com @ 2014-06-25 10:56:02 -->
+>>>>>>> f2715e34e995550843b564d7cb90b4c1408c2c4a

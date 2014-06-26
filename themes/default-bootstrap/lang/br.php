@@ -10,6 +10,7 @@ $_LANG['404_9bec38acab82302a8cf6fbb9182da21f'] = 'Para encontrar um produto, por
 $_LANG['404_a60852f204ed8028c1c58808b746d115'] = 'Ok';
 $_LANG['404_a68ba7d969d1294a35138fa501dfb078'] = 'Procure no nosso catálogo:';
 $_LANG['404_d0fbda9855d118740f1105334305c126'] = 'Página não encontrada';
+$_LANG['address_0c4f82ac8c388cb72b1ba684f10fa098'] = 'Data de entrega';
 $_LANG['address_0f68b904e33d9ac04605aecc958bcf52'] = 'Informações adicionais';
 $_LANG['address_19f823c6453c2b1ffd09cb715214813d'] = 'Campo obrigatório';
 $_LANG['address_1c76cbfe21c6f44c1d1e59d54f3e4420'] = 'Empresa';

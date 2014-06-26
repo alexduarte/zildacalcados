@@ -1,27 +1,32 @@
-<?php /*%%SmartyHeaderCode:892153a5995e7e0981-91128550%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:408353abffd02aceb1-65125817%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '04a82e10128f3de75d9998757c68f3aa1fefef32' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\modules\\homefeatured\\homefeatured.tpl',
-      1 => 1403354794,
+      1 => 1403618691,
       2 => 'file',
     ),
     'd0c904c688dadca2c72e49adf728e88e5bb5c90f' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\product-list.tpl',
-      1 => 1403354794,
+      1 => 1403618692,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '892153a5995e7e0981-91128550',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5c16ba3d546_95054687',
+  'nocache_hash' => '408353abffd02aceb1-65125817',
+  'variables' => 
+  array (
+    'products' => 0,
+    'active_ul' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53abffd0ece268_93333070',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5c16ba3d546_95054687')) {function content_53a5c16ba3d546_95054687($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53abffd0ece268_93333070')) {function content_53abffd0ece268_93333070($_smarty_tpl) {?>
 		
 									
 		
@@ -36,7 +41,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				<div class="left-block">
 					<div class="product-image-container">
 						<a class="product_img_link"	href="http://localhost/zildacalcados/tenis/8-TENIS-ENERGY-PT-TUR-2122.html" title="TENIS ENERGY PT/TUR" itemprop="url">
-							<img class="replace-2x img-responsive" src="http://localhost/zildacalcados/img/p/br-default-home_default.jpg" alt="TENIS ENERGY PT/TUR" title="TENIS ENERGY PT/TUR"  width="250" height="250" itemprop="image" />
+							<img class="replace-2x img-responsive" src="http://localhost/zildacalcados/88-home_default/TENIS-ENERGY-PT-TUR.jpg" alt="TENIS ENERGY PT/TUR" title="TENIS ENERGY PT/TUR"  width="250" height="250" itemprop="image" />
 						</a>
 													<a class="quick-view" href="http://localhost/zildacalcados/tenis/8-TENIS-ENERGY-PT-TUR-2122.html" rel="http://localhost/zildacalcados/tenis/8-TENIS-ENERGY-PT-TUR-2122.html">
 								<span>Visualiza&ccedil;&atilde;o r&aacute;pida</span>
@@ -122,7 +127,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 							<meta itemprop="priceCurrency" content="0" />
 																		</div>
 										<div class="button-container">
-												<a itemprop="url" class="button lnk_view btn btn-default" href="http://localhost/zildacalcados/tenis/9-TENIS-STROKER-1234324243.html" title="Ver">
+																														<a class="button ajax_add_to_cart_button btn btn-default" href="http://localhost/zildacalcados/cart?add=1&amp;id_product=9&amp;token=f8f10d9fb1041f90dac6c9d8f0b2c693" rel="nofollow" title="Encomendar" data-id-product="9">
+										<span>Encomendar</span>
+									</a>
+														
+																			<a itemprop="url" class="button lnk_view btn btn-default" href="http://localhost/zildacalcados/tenis/9-TENIS-STROKER-1234324243.html" title="Ver">
 							<span>Mais</span>
 						</a>
 					</div>

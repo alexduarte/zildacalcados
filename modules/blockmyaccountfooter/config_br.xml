@@ -2,7 +2,7 @@
 <module>
 	<name>blockmyaccountfooter</name>
 	<displayName><![CDATA[Inserir um link Minha conta no rodap&eacute;]]></displayName>
-	<version><![CDATA[1.4]]></version>
+	<version><![CDATA[1.5.1]]></version>
 	<description><![CDATA[Exibe um bloco com links para a conta do usu&aacute;rio.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

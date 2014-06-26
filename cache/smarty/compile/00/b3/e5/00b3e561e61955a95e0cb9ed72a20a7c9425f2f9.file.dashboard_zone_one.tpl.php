@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:39:33
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:08:49
          compiled from "C:\wamp\www\zildacalcados\modules\dashactivity\views\templates\hook\dashboard_zone_one.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:866453a59925988bf3-41701373%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '00b3e561e61955a95e0cb9ed72a20a7c9425f2f9' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\modules\\dashactivity\\views\\templates\\hook\\dashboard_zone_one.tpl',
-      1 => 1403354789,
+      1 => 1403618676,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53a59925a38e04_26339286',
   'variables' => 
   array (
     'allow_push' => 0,
@@ -27,8 +29,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'date_format' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a59925a38e04_26339286',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53a59925a38e04_26339286')) {function content_53a59925a38e04_26339286($_smarty_tpl) {?>
 <section id="dashactivity" class="panel widget<?php if ($_smarty_tpl->tpl_vars['allow_push']->value){?> allow_push<?php }?>">

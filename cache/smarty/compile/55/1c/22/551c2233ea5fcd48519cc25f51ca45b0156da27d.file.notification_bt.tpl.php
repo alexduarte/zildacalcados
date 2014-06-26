@@ -1,20 +1,22 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 01:32:53
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 07:49:24
          compiled from "C:\wamp\www\zildacalcados\modules\gamification\views\templates\hook\notification_bt.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:816353abb085adfd62-54507399%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:193653ac07dcb6d4e8-12502824%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '551c2233ea5fcd48519cc25f51ca45b0156da27d' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\modules\\gamification\\views\\templates\\hook\\notification_bt.tpl',
-      1 => 1403618677,
+      1 => 1403783197,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '816353abb085adfd62-54507399',
+  'nocache_hash' => '193653ac07dcb6d4e8-12502824',
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53ac07dcd49f11_70536843',
   'variables' => 
   array (
     'current_id_tab' => 0,
@@ -29,10 +31,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'next_badges' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53abb085c800c1_29224990',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53abb085c800c1_29224990')) {function content_53abb085c800c1_29224990($_smarty_tpl) {?><script>
+<?php if ($_valid && !is_callable('content_53ac07dcd49f11_70536843')) {function content_53ac07dcd49f11_70536843($_smarty_tpl) {?><script>
 	var current_id_tab = <?php echo intval($_smarty_tpl->tpl_vars['current_id_tab']->value);?>
 ;
 	var current_level_percent = <?php echo intval($_smarty_tpl->tpl_vars['current_level_percent']->value);?>
@@ -141,7 +141,7 @@ $_smarty_tpl->tpl_vars['badge']->_loop = true;
 foreach ($_from as $_smarty_tpl->tpl_vars['badge']->key => $_smarty_tpl->tpl_vars['badge']->value){
 $_smarty_tpl->tpl_vars['badge']->_loop = true;
 ?>
-						<?php if ($_smarty_tpl->tpl_vars['badge']->value->id){?>
+						<?php if ($_smarty_tpl->tpl_vars['badge']->value->id&&!$_smarty_tpl->tpl_vars['badge']->value->awb){?>
 							<li class="<?php if ($_smarty_tpl->tpl_vars['badge']->value->validated){?> unlocked <?php }else{ ?> locked <?php }?>" style="float:left;">
 								<span class="<?php if ($_smarty_tpl->tpl_vars['badge']->value->validated){?> unlocked_img <?php }else{ ?> locked_img <?php }?>" style="left: 12px;"></span>
 								<div class="gamification_badges_title"><span><?php if ($_smarty_tpl->tpl_vars['badge']->value->validated){?> <?php echo smartyTranslate(array('s'=>'Last badge :','mod'=>'gamification'),$_smarty_tpl);?>

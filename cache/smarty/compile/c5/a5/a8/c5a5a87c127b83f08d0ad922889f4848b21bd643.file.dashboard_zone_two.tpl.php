@@ -1,22 +1,20 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:08:49
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 07:46:50
          compiled from "C:\wamp\www\zildacalcados\modules\dashproducts\views\templates\hook\dashboard_zone_two.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2664653a59925b23b60-12172166%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2988853ac082a2027c4-20660505%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'c5a5a87c127b83f08d0ad922889f4848b21bd643' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\modules\\dashproducts\\views\\templates\\hook\\dashboard_zone_two.tpl',
-      1 => 1403618676,
+      1 => 1403783194,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2664653a59925b23b60-12172166',
+  'nocache_hash' => '2988853ac082a2027c4-20660505',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a59925bb6313_76241507',
   'variables' => 
   array (
     'allow_push' => 0,
@@ -28,8 +26,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'DASHPRODUCT_NBR_SHOW_TOP_SEARCH' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53ac082a290c54_72691568',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a59925bb6313_76241507')) {function content_53a59925bb6313_76241507($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53ac082a290c54_72691568')) {function content_53ac082a290c54_72691568($_smarty_tpl) {?>
 
 <section id="dashproducts" class="panel widget <?php if ($_smarty_tpl->tpl_vars['allow_push']->value){?> allow_push<?php }?>">
 	<header class="panel-heading">

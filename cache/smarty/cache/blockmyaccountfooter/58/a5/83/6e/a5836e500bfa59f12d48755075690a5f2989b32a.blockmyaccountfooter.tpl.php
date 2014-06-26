@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:107853abb08b156a30-34921757%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:227053ac260f6b3804-06315764%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,21 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '107853abb08b156a30-34921757',
-  'variables' => 
-  array (
-    'link' => 0,
-    'returnAllowed' => 0,
-    'voucherAllowed' => 0,
-    'HOOK_BLOCK_MY_ACCOUNT' => 0,
-    'is_logged' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '227053ac260f6b3804-06315764',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53abb08b2be820_26411355',
+  'unifunc' => 'content_53ac3610514753_72489239',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53abb08b2be820_26411355')) {function content_53abb08b2be820_26411355($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53ac3610514753_72489239')) {function content_53ac3610514753_72489239($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/zildacalcados/my-account" title="Gerenciar minha conta de usuário" rel="nofollow">Minha Conta</a></h4>

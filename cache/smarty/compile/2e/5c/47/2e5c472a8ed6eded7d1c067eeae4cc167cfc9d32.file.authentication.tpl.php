@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-21 10:40:52
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 10:59:36
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\authentication.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2919853a599746ad388-63252805%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:515953ac3558072ad8-72607843%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '2e5c472a8ed6eded7d1c067eeae4cc167cfc9d32' => 
     array (
       0 => 'C:\\wamp\\www\\zildacalcados\\themes\\default-bootstrap\\authentication.tpl',
-      1 => 1403354793,
+      1 => 1403618689,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2919853a599746ad388-63252805',
+  'nocache_hash' => '515953ac3558072ad8-72607843',
   'function' => 
   array (
   ),
@@ -59,9 +59,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a5997544af06_72509322',
+  'unifunc' => 'content_53ac3558e793a2_11744488',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a5997544af06_72509322')) {function content_53a5997544af06_72509322($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53ac3558e793a2_11744488')) {function content_53ac3558e793a2_11744488($_smarty_tpl) {?>
 <?php $_smarty_tpl->_capture_stack[0][] = array('path', null, null); ob_start(); ?>
 	<?php if (!isset($_smarty_tpl->tpl_vars['email_create']->value)){?><?php echo smartyTranslate(array('s'=>'Authentication'),$_smarty_tpl);?>
 <?php }else{ ?>

@@ -13,7 +13,7 @@
 	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.prestashop.com/blog/en</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Jun 2014 21:25:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Jun 2014 16:01:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -58,16 +58,13 @@
 </ul>
 <p>We would like to thank everybody who helped us with this update. The PrestaShop community is simply great, the best! Nearly 200 bugs and issues were fixed with your help, making this version the strongest PrestaShop yet! Be sure to always <a href="http://www.prestashop.com/blog/en/set-up-a-test-server-for-your-online-store/">backup and test your upgrades</a> before upgrading your live store.</p>
 <p>That’s it for now, <a href="http://www.prestashop.com/en/download">download PrestaShop 1.6 today</a>! Stay tuned for some more exciting news coming soon!</p>
+<p>UPDATE: PrestaShop 1.6.0.8 was released on 6/20/2014 with various template and image fixes.</p>
 <p>Happy Selling!</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 			<wfw:commentRss>http://www.prestashop.com/blog/en/prestashop-1-6-0-7-is-now-available-to-update/feed/</wfw:commentRss>
-<<<<<<< HEAD
-		<slash:comments>2</slash:comments>
-=======
 		<slash:comments>3</slash:comments>
->>>>>>> f2715e34e995550843b564d7cb90b4c1408c2c4a
 		</item>
 		<item>
 		<title>Ecommerce Success Story – An up close look at WishTrend’s tripling growth</title>
@@ -554,8 +551,6 @@ HiPay constantly works and negotiates with banks, to be able to offer all the pa
 		</item>
 	</channel>
 </rss>
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
@@ -563,24 +558,4 @@ Minified using disk: basic
 Page Caching using disk: enhanced
 Object Caching 829/968 objects using disk: basic
 
-Served from: www.prestashop.com @ 2014-06-24 12:56:02 -->
-=======
-
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Minified using disk: basic
-Page Caching using disk: enhanced
-Object Caching 829/968 objects using disk: basic
-
-Served from: www.prestashop.com @ 2014-06-23 11:56:02 -->
->>>>>>> 5720a6ca9bae62cc60ea829a8143f3d8bf9db84a
-=======
-
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Minified using disk: basic
-Page Caching using disk: enhanced
-Object Caching 829/968 objects using disk: basic
-
-Served from: www.prestashop.com @ 2014-06-25 10:56:02 -->
->>>>>>> f2715e34e995550843b564d7cb90b4c1408c2c4a
+Served from: www.prestashop.com @ 2014-06-26 10:56:03 -->

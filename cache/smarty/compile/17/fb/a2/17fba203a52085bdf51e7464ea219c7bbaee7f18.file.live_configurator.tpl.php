@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-24 10:07:29
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 10:35:55
          compiled from "C:\wamp\www\zildacalcados\modules\themeconfigurator\views\templates\hook\live_configurator.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2075253a59940625ae7-96586600%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:595453ac2fcb7e6637-16165766%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,12 +11,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2075253a59940625ae7-96586600',
+  'nocache_hash' => '595453ac2fcb7e6637-16165766',
   'function' => 
   array (
   ),
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53a599406e2785_18855414',
   'variables' => 
   array (
     'themes' => 0,
@@ -30,8 +28,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'advertisement_text' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53ac2fcb946b89_42631434',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53a599406e2785_18855414')) {function content_53a599406e2785_18855414($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53ac2fcb946b89_42631434')) {function content_53ac2fcb946b89_42631434($_smarty_tpl) {?>
 
 <div id="gear-right">
 	<i class="icon-cogs icon-2x icon-light"></i>

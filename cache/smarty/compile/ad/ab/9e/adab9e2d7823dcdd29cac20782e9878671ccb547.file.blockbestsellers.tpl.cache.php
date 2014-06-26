@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 01:33:00
+<?php /* Smarty version Smarty-3.1.14, created on 2014-06-26 10:36:28
          compiled from "C:\wamp\www\zildacalcados\themes\default-bootstrap\modules\blockbestsellers\blockbestsellers.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1743253abb08c8641e2-07621622%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2404753ac2fec7b8264-89197276%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1743253abb08c8641e2-07621622',
+  'nocache_hash' => '2404753ac2fec7b8264-89197276',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53abb08c95f910_07735526',
+  'unifunc' => 'content_53ac2fec8e0d70_66608107',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53abb08c95f910_07735526')) {function content_53abb08c95f910_07735526($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53ac2fec8e0d70_66608107')) {function content_53ac2fec8e0d70_66608107($_smarty_tpl) {?>
 
 <!-- MODULE Block best sellers -->
 <div id="best-sellers_block_right" class="block products_block">

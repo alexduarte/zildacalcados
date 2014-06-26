@@ -2,7 +2,7 @@
 <module>
 	<name>blockcategories</name>
 	<displayName><![CDATA[Bloco das categorias]]></displayName>
-	<version><![CDATA[2.8]]></version>
+	<version><![CDATA[2.8.1]]></version>
 	<description><![CDATA[Adiciona um bloco com categorias de produtos.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>
